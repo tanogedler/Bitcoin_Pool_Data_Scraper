@@ -22,7 +22,7 @@ This scraper is intended to run in a Ubuntu server, and from there it sends the 
 
 The shell script can be added as a cron job that runs every 5 minutes
 
-### Last but not lest...
+### Last but not least...
 
 You can use this, as you like, improve it, break it, modify it, or just clone it and use it. 
 
